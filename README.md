@@ -50,7 +50,7 @@ We extend our gratitude to Amazon for hosting this exciting challenge and provid
 
 ## Contact
 For any queries or discussions, feel free to reach out via:
-- Email: [vineetkarya0@gmail.com.com](mailto:vineetkarya0@gmail)
+- Email: [vineetkarya0@gmail.com.com](mailto:vineetkarya0)
 - GitHub Issues: [Open an issue](https://github.com/vineet11504l/amazon-ml-challenge-2024/issues)
 
 ---
